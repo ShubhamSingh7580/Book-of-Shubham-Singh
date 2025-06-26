@@ -5,15 +5,15 @@ This is the official website for the motivational book **"If You Don't Have Goal
 
 ## 🌟 Features
 
-- 📖 Read the book online (English & Hindi versions)
+- 📖 Read the book online (English & Hindi versions) on (https://book-by-shubham-singh.netlify.app/)
 - 📥 Download the book PDF in both languages
 - 🧠 Motivational quotes from the author
 - 🧑‍💻 About the Author
 - 📚 Chapter-wise summaries and navigation
 
-## 🚀 Hosted on Vercel
+## 🚀 Hosted on Netlify
 
-This website is hosted for free on [Vercel](https://vercel.com). Any updates pushed to this repository will be automatically deployed.
+This website is hosted for free on [Netlify]([https://netlify.com](https://book-by-shubham-singh.netlify.app/)).
 
 ## 🔧 How to Edit
 
